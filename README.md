@@ -1,2 +1,3 @@
-# ToyEngines
-This is my game engine repository. 
+# HazelEngine
+This repository hosts the Hazel game engine. 
+
